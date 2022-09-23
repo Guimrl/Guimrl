@@ -5,7 +5,7 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 <br>
 - Me pergunte sobre algo [here](https://github.com/guimrl/guimrl/issues)
  
-### <iframe src="https://giphy.com/embed/rdJCzxBWIvqGA" width="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> Um pouco mais sobre mim...
+### <img src="https://giphy.com/embed/rdJCzxBWIvqGA" width="50" ></img> Um pouco mais sobre mim...
 
 ```javascript
 let gui = {
