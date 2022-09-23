@@ -1,9 +1,11 @@
 ## Boas vindas ao meu perfil 
 
-Esse é o cantinho em que eu posto meus projetos, projetos das aulas e exemplos, FullStack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
+Esse é o cantinho em que eu posto meus projetos, projetos das aulas e exemplos, FullStack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!.
 <br>
 - Me pergunte sobre algo [here](https://github.com/guimrl/guimrl/issues)
+- Dê uma olhadinha nos meus certificados [here](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
+
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim...
 
