@@ -1,11 +1,12 @@
 ## Boas vindas ao meu perfil 
 
 Esse é o cantinho em que eu posto meus projetos, projetos das aulas e exemplos, FullStack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
-Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu!.
+Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!.
 <br>
-- Ask me about anything [here](https://github.com/guimrl/guimrl/issues)
+- Me pergunte sobre algo [here](https://github.com/guimrl/guimrl/issues)
  
-### <img src="https://giphy.com/gifs/ES4Vcv8zWfIt2" width="50"> Um pouco mais sobre mim...
+### <iframe src="https://giphy.com/embed/rdJCzxBWIvqGA" width="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> Um pouco mais sobre mim...
+
 ```javascript
 let gui = {
   code: [HTML, CSS, PHP, JavaScript],
