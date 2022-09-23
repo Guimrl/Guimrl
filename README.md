@@ -1,9 +1,23 @@
 ## Boas vindas ao meu perfil 
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Esse é o cantinho em que eu posto meus projetos, projetos das aulas e exemplos, FullStack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
+Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu!.
+<br>
+- Ask me about anything [here](https://github.com/guimrl/guimrl/issues)
  
+### <img src="https://giphy.com/gifs/ES4Vcv8zWfIt2" width="50"> Um pouco mais sobre mim...
+```javascript
+let gui = {
+  code: [HTML, CSS, PHP, JavaScript],
+  tools: [SASS, Bootstrap, Jquery, WordPress, Docker],
+  hobbies: {
+            music: "listen", "play",
+            plant: "cactus", "succulent plants",
+            electronics: "hardware", "printed circuits"
+},
+}
+``` 
 
-lorem ipsum e tal asdaskljdalksjdaksaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <br>
 
 <!-- GITHUB STATUS -->
@@ -16,7 +30,7 @@ lorem ipsum e tal asdaskljdalksjdaksaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 <br>
 
-<!-- TECNOLOGIAS -->
+<p align="center">Tecnologias</p>
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&&style=flat)
@@ -28,14 +42,12 @@ lorem ipsum e tal asdaskljdalksjdaksaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&&style=flat)
 
 
-
 </div>
 
-<!-- REDES SOCIAIS -->
+<p align="center">Minhas redes sociais</p>
 <div align="center">
   <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guimrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&&style=flat" target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Guimrl)
 </div>
-
