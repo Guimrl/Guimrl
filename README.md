@@ -1,24 +1,38 @@
+
 ## Boas vindas ao meu perfil 
 
 Esse é o cantinho em que eu posto meus projetos, projetos das aulas e exemplos, FullStack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!.
 <br>
-- Me pergunte sobre algo [here](https://github.com/guimrl/guimrl/issues)
-- Dê uma olhadinha nos meus certificados [here](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
+- Me pergunte sobre algo [aqui](https://github.com/guimrl/guimrl/issues)
+- Você pode também ver meu portfólio [aqui](https://guimrl.github.io/)
+- Visite meu LinkedIn [aqui](https://www.linkedin.com/in/guimrl/)
+- Dê uma olhadinha nos meus certificados [aqui](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
+
 
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim...
 
 ```javascript
-let gui = {
-  code: [HTML, CSS, PHP, JavaScript],
-  tools: [SASS, Bootstrap, Jquery, WordPress, Docker],
-  hobbies: {
-            music: "listen", "play",
-            plant: "cactus", "succulent plants",
-            electronics: "hardware", "printed circuits"
-},
-}
+let gui  = {
+        job: 'Developer',
+        openToWork: true,
+        code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+        frameworks: ["Laravel"," Vue.js", " Bootstrap", "jQuery"],
+        hobbies: [
+            'listen to music', 'play guitar', 'grow cactus', 'draw',
+            'drink coffee'
+        ],
+        working: function(){
+            while(working)
+            {
+            coffee.drink();
+            work.execute();
+              if(coffee === "empty"){
+                coffeepot === "empty" ? coffepot.brew() : coffee.refill();
+              }
+            }
+        }};
 ``` 
 
 <br>
