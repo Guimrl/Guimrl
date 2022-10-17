@@ -5,7 +5,8 @@ Esse é o cantinho em que eu posto meus projetos, projetos das aulas e exemplos,
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!.
 <br>
 - Me pergunte sobre algo [aqui](https://github.com/guimrl/guimrl/issues)
-- Você podem também ver meu portfólio [aqui](https://guimrl.github.io/)
+- Você pode também ver meu portfólio [aqui](https://guimrl.github.io/)
+- Visite meu LinkedIn [aqui](https://www.linkedin.com/in/guimrl/)
 - Dê uma olhadinha nos meus certificados [aqui](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
 
 
@@ -13,15 +14,25 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim...
 
 ```javascript
-let gui = {
-  code: [HTML, CSS, PHP, JavaScript],
-  tools: [Laravel, Vue.js, SASS, Bootstrap, jQuery, WordPress, Docker],
-  hobbies: {
-            music: "listen", "play",
-            plant: "cactus", "succulent plants",
-            electronics: "hardware", "printed circuits"
-},
-}
+let gui  = {
+        job: 'Developer',
+        openToWork: true,
+        code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+        frameworks: ["Laravel"," Vue.js", " Bootstrap", "jQuery"],
+        hobbies: [
+            'listen to music', 'play guitar', 'grow cactus', 'draw',
+            'drink coffee'
+        ],
+        working: function(){
+            while(working)
+            {
+            coffee.drink();
+            work.execute();
+              if(coffee === "empty"){
+                coffeepot === "empty" ? coffepot.brew() : coffee.refill();
+              }
+            }
+        }};
 ``` 
 
 <br>
