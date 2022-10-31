@@ -6,6 +6,7 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 <br>
 - Me pergunte sobre algo [aqui](https://github.com/guimrl/guimrl/issues)
 - Você pode também ver meu portfólio [aqui](https://guimrl.github.io/)
+- Visite a página da Gran Toro! [aqui](http://grantoro.epizy.com/)
 - Visite meu LinkedIn [aqui](https://www.linkedin.com/in/guimrl/)
 - Dê uma olhadinha nos meus certificados [aqui](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
 
