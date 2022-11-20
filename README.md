@@ -41,13 +41,32 @@ let gui  = {
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimrl&layout=compact&langs_count=10&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
+
+<div align="center">
+
+
+![](https://github-profile-trophy.vercel.app/?username=guimrl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+</div>
+
+<div align="center">
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+</div>
+
 
 <p align="center">Tecnologias</p>
 <div align="center">
@@ -55,6 +74,7 @@ let gui  = {
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&&style=flat)
 ![CSS](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?logo=typescript&logoColor=white&&style=flat)
 ![PHP](https://img.shields.io/badge/-php-777BB4?logo=PHP&logoColor=white&&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&&style=flat)
@@ -68,5 +88,6 @@ let gui  = {
   <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guimrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&&style=flat" target="_blank"></a>  
     
-  ![](https://visitor-badge.glitch.me/badge?page_id=Guimrl)
+    
+[![](https://visitcount.itsvg.in/api?id=guimrl&icon=2&color=12)](https://visitcount.itsvg.in)
 </div>
