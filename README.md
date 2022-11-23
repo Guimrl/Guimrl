@@ -5,9 +5,9 @@
   Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Full Stack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
+- Você pode ver meu [portfólio](https://guimrl.github.io/)
 - Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
 - Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
-- Você pode também ver meu [portfólio](https://guimrl.github.io/)
 - Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
 - Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
 - Dê uma olhadinha nos meus [certificados](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
