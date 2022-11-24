@@ -2,8 +2,8 @@
 # Boas vindas ao meu perfil
 
 
-  Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Full Stack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
-Atualmente estou contribuindo com a tradução da documentação do PHP.
+  Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Full Stack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
+Atualmente estou contribuindo com a tradução da documentação do PHP.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
