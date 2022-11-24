@@ -3,6 +3,7 @@
 
 
   Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Full Stack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.
+Atualmente estou contribuindo com a tradução da documentação do PHP.
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
@@ -10,7 +11,6 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 - Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
 - Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
 - Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
-- Dê uma olhadinha nos meus [certificados](https://drive.google.com/drive/folders/1cRXrBC-gPsd8GN8bbIMGOjBPnszVxYhG?usp=sharing)
 
  
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim...
