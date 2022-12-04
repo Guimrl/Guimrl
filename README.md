@@ -2,12 +2,13 @@
 # Boas vindas ao meu perfil
 
 
-  Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Full Stack Developer em futuro não tão distante, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
-Atualmente estou contribuindo com a tradução da documentação do PHP.<br>
+  Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
+Atualmente estou contribuindo com a tradução da documentação do PHP, estudando bastante e procurando emprego na área de desenvolvimento web.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
 - Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
+- Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
 - Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
 - Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
 - Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
