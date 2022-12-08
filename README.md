@@ -41,13 +41,10 @@ let gui  = {
 <!-- GITHUB STATUS -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/
-api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/
-api/top-langs/
-?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/
-?user=guimrl&theme=slateorange&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
+
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
