@@ -1,18 +1,18 @@
 
-# Boas vindas ao meu perfil
+# <img src="https://user-images.githubusercontent.com/88007295/208747617-a0e37581-c1d3-4b6e-bf90-e778246ee7f3.png" width="60"></img> Boas vindas ao meu perfil
 
   Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
   Atualmente estou contribuindo com a tradução da documentação do PHP, estudando bastante e procurando emprego na área de desenvolvimento web.<br>
   Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
-- Você pode ver meu [portfólio](https://guimrl.github.io/)
-- Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
-- Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
-- Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
-- Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
-- Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
+- 🎯 Você pode ver meu [portfólio](https://guimrl.github.io/)
+- 🎮 Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
+- 🔍 Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
+- 🚀 Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
+- 🐂 Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
+- ❓ Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim
+## <img src="https://user-images.githubusercontent.com/88007295/208747282-c2df5465-d604-49e9-ab7c-efaaa7db6044.png" width="50"></img> Um pouco mais sobre mim
 
 ```javascript
 let gui  = {
