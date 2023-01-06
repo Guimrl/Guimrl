@@ -9,7 +9,7 @@
 - 🎮 Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
 - 🔍 Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
 - 🚀 Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
-- 🐂 Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
+- 🐂 Acesse também o site da [Gran Toro](https://grantoro.github.io/)
 - ❓ Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
 
 ## <img src="https://user-images.githubusercontent.com/88007295/208747282-c2df5465-d604-49e9-ab7c-efaaa7db6044.png" width="50"></img> Um pouco mais sobre mim
