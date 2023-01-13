@@ -2,7 +2,7 @@
 # <img src="https://user-images.githubusercontent.com/88007295/208747617-a0e37581-c1d3-4b6e-bf90-e778246ee7f3.png" width="60"></img> Boas vindas ao meu perfil
 
   Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
-  Atualmente estou contribuindo com a tradução da documentação do PHP, estudando bastante e procurando emprego na área de desenvolvimento web.<br>
+  Atualmente estou contribuindo com a tradução da documentação do PHP, estudando bastante TypeScript, JavaScript e PHP, estou procurando emprego na área de desenvolvimento web.<br>
   Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - 🎯 Você pode ver meu [portfólio](https://guimrl.github.io/)
