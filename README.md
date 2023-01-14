@@ -41,11 +41,10 @@ let gui  = {
 <!-- GITHUB STATUS -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimrl&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=true"/>
 
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
@@ -81,5 +80,5 @@ let gui  = {
   <a href="https://www.linkedin.com/in/guimrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&&style=flat" target="_blank"></a>
   <a href="https://www.buymeacoffee.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-F7DF1E?logo=buy-me-a-coffee&logoColor=white&&style=flat" target="_blank"></a>
 
-[![](https://visitcount.itsvg.in/api?id=guimrl&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=guimrl&icon=1&color=12)](https://visitcount.itsvg.in)
 </div>
