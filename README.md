@@ -41,9 +41,11 @@ let gui  = {
 <!-- GITHUB STATUS -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimrl&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimrl&show_icons=true&theme=slateorange)
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guimrl)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guimrl&theme=slateorange&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
