@@ -53,7 +53,7 @@ let gui  = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=slateorange)
 
 </div>
 
@@ -73,8 +73,10 @@ let gui  = {
 
 <p align="center">Minhas redes sociais</p>
 <div align="center">
-  <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
+
+  <a href="https://instagram.com/this.guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guimrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&&style=flat" target="_blank"></a>  
 
 [![](https://visitcount.itsvg.in/api?id=guimrl&icon=2&color=12)](https://visitcount.itsvg.in)
+
 </div>
