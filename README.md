@@ -15,24 +15,29 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim
 
 ```javascript
-let gui  = {
+let gui = 
+{
     job: 'Developer',
-    openToWork: true,
-    code: ["HTML", "CSS", "JavaScript","Typescript", "PHP", "MySQL"],
+    openToWork: false,
+    code: ["HTML", "CSS", "JavaScript", "Typescript", "PHP", "MySQL"],
     frameworks: ["Laravel"," Vue.js", " Bootstrap", "jQuery"],
-    hobbies: [
+    hobbies:
+    [
         'listen to music', 'play guitar', 'grow cactus', 'draw',
         'drink coffee'
     ],
-    working: function() {
-        while(working) {
+    working: function() 
+    {
+        while (working) {
         coffee.drink();
         work.execute();
             if(coffee === "empty") {
                 coffeepot === "empty" ? coffepot.brew() : coffee.refill();
             }
         }
-    }};
+    }
+};
+
 ```
 
 <br>
@@ -72,6 +77,7 @@ let gui  = {
 </div>
 
 <p align="center">Minhas redes sociais</p>
+
 <div align="center">
 
   <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
