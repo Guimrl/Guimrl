@@ -2,14 +2,14 @@
 # Boas vindas ao meu perfil
 
   Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
-  Atualmente estou contribuindo com a tradução da documentação do PHP, estudando bastante e procurando emprego na área de desenvolvimento web.<br>
+  Atualmente estou contribuindo com a tradução da documentação do PHP, estudando bastante.<br>
   Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
 - Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
 - Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
 - Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
-- Acesse também o site da [Gran Toro](http://grantoro.epizy.com/?i=1)
+- Acesse também o site da [Gran Toro](https://guimrl.github.io/)
 - Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim
@@ -19,8 +19,8 @@ let gui =
 {
     job: 'Developer',
     openToWork: false,
-    code: ["HTML", "CSS", "JavaScript", "Typescript", "PHP", "MySQL"],
-    frameworks: ["Laravel"," Vue.js", " Bootstrap", "jQuery"],
+    code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "MySQL"],
+    frameworks: ["Laravel"," Angular", " Bootstrap", "jQuery"],
     hobbies:
     [
         'listen to music', 'play guitar', 'grow cactus', 'draw',
