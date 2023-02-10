@@ -63,21 +63,27 @@ let gui =
 </div>
 
 <p align="center">Tecnologias</p>
-<div align="center">
+<div style="display: inline block"><br>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&&style=flat)
-![CSS](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?logo=typescript&logoColor=white&&style=flat)
-![PHP](https://img.shields.io/badge/-php-777BB4?logo=PHP&logoColor=white&&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&&style=flat)
+<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+<img align="center" alt="TAILWIND" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+<img align="center" alt="ANGULAR" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
+<img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
+<img align="center" alt="LARAVEL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
+<img align="center" alt="POSTGRE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+<img align="center" alt="MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"/>
+<img align="center" alt="ORACLE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
+<img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img align="center" alt="GITHUB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 
 </div>
 
+<hr>
 <p align="center">Minhas redes sociais</p>
-
+<br>
 <div align="center">
 
   <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
