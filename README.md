@@ -2,14 +2,16 @@
 # Boas vindas ao meu perfil
 
 Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
-Atualmente trabalho na TargetIt como estagiário, contribuindo com a tradução da documentação do PHP e estudando bastante.<br>
+Atualmente trabalho na <span style="color: orange">Target</span><span style="color: #0088FF">IT</span>🎯 
+como estagiário de desenvolvimento, contribuindo com a tradução da documentação do PHP e estudando bastante.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
+- Ver os [mini-projetos](https://guimrl.github.io/mini-projetos)
 - Jogue meu [jogo](https://guimrl.github.io/mortynight-run/) Mortynight Run
 - Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
 - Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
-- Acesse também o site da [Gran Toro](https://guimrl.github.io/)
+- Acesse também o site da [Gran Toro](https://grantoro.github.io/)
 - Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim
@@ -18,7 +20,6 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 let gui = 
 {
     job: 'Developer',
-    openToWork: false,
     code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "MySQL", "PostgreSQL", "Oracle"],
     frameworks: ["Laravel"," Angular", " Bootstrap", "jQuery", "Tailwind"],
     hobbies:
