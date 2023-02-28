@@ -1,9 +1,9 @@
 
 # Boas vindas ao meu perfil!
 
-Esse é o cantinho em que eu posto meus projetos pessoais, projetos das aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
+Esse é o cantinho em que eu posto meus projetos pessoais, projetos de aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
 Atualmente trabalho na <span style="color: orange">Target</span><span style="color: #0088FF">IT</span>🎯 
-como estagiário de desenvolvimento, contribuindo com a tradução da documentação do PHP e estudando bastante.<br>
+como estagiário de desenvolvimento, estudando bastante e contribuindo com a tradução da documentação do PHP.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
@@ -19,7 +19,7 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 
 <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-<img align="center" alt="TAILWIND" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="center" alt="TAILWIND" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
 <img align="center" alt="ANGULAR" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
@@ -44,10 +44,10 @@ let gui =
     frameworks: ["Laravel"," Angular", " Bootstrap", "jQuery", "Tailwind"],
     hobbies:
     [
-        'listen to music', 'play guitar', 'grow cactus', 'draw',
-        'drink coffee'
+        'ouvir música', 'tocar guitarra', 'plantar cactos', 'desenhar',
+        'beber café'
     ],
-    working: function() 
+    working: function()
     {
         while (working) {
         coffee.drink();
@@ -67,7 +67,7 @@ let gui =
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
 
 <br>
