@@ -23,6 +23,7 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
 <img align="center" alt="ANGULAR" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
+<img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
 <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
 <img align="center" alt="LARAVEL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
 <img align="center" alt="POSTGRE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
@@ -67,7 +68,7 @@ let gui =
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
 
 <br>
