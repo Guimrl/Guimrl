@@ -38,27 +38,15 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim
 
 ```javascript
-let gui = 
-{
-    job: 'Developer',
-    code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "MySQL", "PostgreSQL", "Oracle"],
-    frameworks: ["Laravel"," Angular", " Bootstrap", "jQuery", "Tailwind"],
-    hobbies:
-    [
-        'ouvir música', 'tocar guitarra', 'plantar cactos', 'desenhar',
-        'beber café'
-    ],
-    working: function()
-    {
-        while (working) {
+const work = () => {
+    while (working) {
         coffee.drink();
-        work.execute();
-            if(coffee === "empty") {
-                coffeepot === "empty" ? coffepot.brew() : coffee.refill();
-            }
+        job.execute();
+        if (coffee === "empty") {
+            coffeepot === "empty" ? coffepot.brew() : coffee.refill();
         }
     }
-};
+}
 
 ```
 
@@ -67,16 +55,9 @@ let gui =
 <!-- GITHUB STATUS -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
-
-<br>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=guimrl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
 
 <br>
 <p align="center">Minhas redes sociais</p>
