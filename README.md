@@ -2,14 +2,14 @@
 # Boas vindas ao meu perfil!
 
 Esse é o cantinho em que eu posto meus projetos pessoais, projetos de aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
-Atualmente trabalho na <span style="color: orange">Target</span><span style="color: #0088FF">IT</span>🎯 
-como estagiário de desenvolvimento, estudando bastante e contribuindo com a tradução da documentação do PHP.<br>
+Atualmente, sou estagiário de desenvolvimento na TargetIT🎯, e estou focado em estudar e evoluir constantemente para alcançar meus objetivos profissionais. Estou dando passos firmes e determinados em direção aos meus sonhos.<br>
+já contribui com a tradução da documentação do PHP.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
 - Ver os [mini projetos](https://guimrl.github.io/mini-projetos)
-- Jogue [Mortynight Run](https://guimrl.github.io/mortynight-run/)
 - Encontre o [Número Secreto](https://guimrl.github.io/numero-secreto/)
+- Jogue [Mortynight Run](https://guimrl.github.io/mortynight-run/)
 - Visite meu [LinkedIn](https://www.linkedin.com/in/guimrl/)
 - Acesse também o site da [Gran Toro](https://grantoro.github.io/)
 - Me [pergunte](https://github.com/guimrl/guimrl/issues) sobre algo
@@ -39,11 +39,12 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 
 ```javascript
 const work = () => {
+    let working = true;
     while (working) {
         coffee.drink();
         job.execute();
-        if (coffee === "empty") {
-            coffeepot === "empty" ? coffepot.brew() : coffee.refill();
+        if (coffee() === "empty") {
+            coffeepot() === "empty" ? coffeepot().brew() : coffee().refill();
         }
     }
 }
