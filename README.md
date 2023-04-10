@@ -57,7 +57,7 @@ const work = () => {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=Hack"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
 
 <br>
