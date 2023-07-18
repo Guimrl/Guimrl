@@ -2,7 +2,7 @@
 # Boas vindas ao meu perfil!
 
 Esse é o cantinho em que eu posto meus projetos pessoais, projetos de aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
-Atualmente, sou estagiário de desenvolvimento na TargetIT🎯, e estou focado em estudar e evoluir constantemente para alcançar meus objetivos profissionais. Estou dando passos firmes e determinados em direção aos meus sonhos.<br>
+Atualmente, sou estagiário desenvolvedor Front End na Decision Systems, e estou focado em estudar e evoluir constantemente para alcançar meus objetivos profissionais. Estou dando passos firmes e determinados em direção aos meus sonhos.<br>
 já contribui com a tradução da documentação do PHP.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
