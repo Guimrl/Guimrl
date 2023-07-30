@@ -1,9 +1,8 @@
 
 # Boas vindas ao meu perfil!
 
-Esse é o cantinho em que eu posto meus projetos pessoais, projetos de aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
+Esse é o cantinho onde eu posto meus projetos pessoais, projetos de aulas e exemplos, Ah... esse perfil inteiro incluindo essa apresentação ainda está em fase de desenvolvimento e em constante aprimoração, então não se assuste se essa bagunça estiver toda organizada na próxima vez em que aparecer!!.<br>
 Atualmente, sou estagiário desenvolvedor Front End na Decision Systems, e estou focado em estudar e evoluir constantemente para alcançar meus objetivos profissionais. Estou dando passos firmes e determinados em direção aos meus sonhos.<br>
-já contribui com a tradução da documentação do PHP.<br>
 Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só me perguntar viu?!. <br>
 
 - Você pode ver meu [portfólio](https://guimrl.github.io/)
@@ -19,18 +18,18 @@ Aqui em baixo você pode saber um pouco mais sobre mim, e qualquer coisa é só 
 
 <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-<img align="center" alt="BOOTSTRAP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+<img align="center" alt="REACT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center" alt="NODEJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
 <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
 <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
 <img align="center" alt="LARAVEL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
-<img align="center" alt="POSTGRE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
 <img align="center" alt="MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"/>
-<img align="center" alt="ORACLE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
+<img align="center" alt="GRAPHQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 <img align="center" alt="GITHUB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+
 
 </div>
 <br>
