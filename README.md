@@ -43,7 +43,7 @@ const work = () => {
         coffee.drink();
         job.execute();
         if (coffee() === "empty") {
-            coffeepot() === "empty" ? coffeepot().brew() : coffee().refill();
+            coffeepot() === "empty" ? coffeepot.brew() : coffee.refill();
         }
     }
 }
