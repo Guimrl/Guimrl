@@ -58,6 +58,7 @@ const work = () => {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=Hack"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
 
+</div>
 <br>
 <p align="center">Minhas redes sociais</p>
 <br>
