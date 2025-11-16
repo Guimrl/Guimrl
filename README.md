@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará meus projetos pess
 
 ## 🚀 Minha Jornada e Foco Atual
 
-Sou um **Engenheiro de Software** com mais de **2 anos** de experiência no mercado de programação, apaixonado por construir soluções robustas e escaláveis. Atualmente, atuo como **Desenvolvedor Full Stack**, com **Node.js, TypeScript e React**, além de trabalhar com GraphQL no backend.
+Sou um **Engenheiro de Software** com mais de **3 anos** de experiência no mercado de programação, apaixonado por construir soluções robustas e escaláveis. Atualmente, atuo como **Desenvolvedor Full Stack**, com **Node.js, TypeScript e React**, além de trabalhar com GraphQL no backend.
 
 Minha paixão por tecnologia me impulsiona a buscar **evolução constante**, e sou um grande entusiasta de **boas práticas de engenharia de software**, como:
 
