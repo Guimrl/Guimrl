@@ -1,88 +1,68 @@
-# Olá! Eu sou o Guilherme 👋
+# Guilherme Amaral 👋
 
-Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará meus projetos pessoais, experimentos e exemplos de código, refletindo minha jornada de aprendizado e constante aprimoramento em engenharia de software.
+Sou desenvolvedor Full Stack com mais de 3 anos de experiência, gosto de construir soluções que resolvem problemas reais e gosto ainda mais de aprender coisas novas no caminho. Trabalho com desenvolvimento web, APIs e interfaces, e sempre tento manter o código simples, organizado e fácil de manter.
 
----
-
-## 🚀 Minha Jornada e Foco Atual
-
-Sou um **Engenheiro de Software** com mais de **3 anos** de experiência no mercado de programação, apaixonado por construir soluções robustas e escaláveis. Atualmente, atuo como **Desenvolvedor Full Stack**, com **Node.js, TypeScript e React**, além de trabalhar com GraphQL no backend.
-
-Minha paixão por tecnologia me impulsiona a buscar **evolução constante**, e sou um grande entusiasta de **boas práticas de engenharia de software**, como:
-
-* **Domain-Driven Design (DDD):** Foco em modelar o software pelo domínio do negócio.
-* **Test-Driven Development (TDD):** Escrever testes antes do código para garantir qualidade.
-* **Princípios SOLID:** Para código limpo, flexível e manutenível.
-* **KISS (Keep It Simple, Stupid):** Priorizando a simplicidade e a clareza.
-* **Tell, Don't Ask e Fail Fast:** Para um design de objetos eficaz e tratamento de erros proativo.
-* **Clean Architecture (Arquiteturas Limpas):** Buscando separar as preocupações e facilitar a manutenção.
-
-Minha capacidade de **adaptação e aprendizado rápido** é um dos meus maiores diferenciais. Em minha trajetória, fiz a transição de **JavaScript puro para React e TypeScript em poucas semanas**, e estou sempre explorando novas tecnologias.
+Hoje estou na GVdasa Inteligência Educacional e também estou aprofundando meus estudos em C#, além de continuar explorando outras tecnologias que me ajudam a crescer como profissional.
 
 ---
 
-## 🛠️ Tecnologias que Domino e Exploro
+## 🚀 Sobre mim
+
+- Desenvolvedor Full Stack com experiência em frontend e backend.
+- Gosto de construir soluções práticas, com atenção para qualidade e manutenção.
+- Tenho interesse em arquitetura de software, boas práticas e desenvolvimento com foco em produto real.
+- Estou sempre aprendendo algo novo, e neste momento estou estudando C#.
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center" style="display: inline-block; margin-top: 15px; margin-bottom: 15px;">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-  <img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="REACT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="NODEJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-  <img align="center" alt="EXPRESS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="GRAPHQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="DOCKER" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="POSTGRESQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="MONGODB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="JEST" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img align="center" alt="GITHUB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-  <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
-  <img align="center" alt="MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+  <img alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img alt="GraphQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+  <img alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+  <img alt="Vitest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+  <img alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  <img alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img alt="Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
 </div>
 
 ---
 
-## 💡 Projetos em Destaque
+## 💡 Projetos em destaque
 
-* Você pode ver meu [**Portfólio**](https://guimrl.github.io/) para outros projetos e experiências.
-* [**To-Do List API**](https://github.com/Guimrl/todo-list-api): Uma API REST completa desenvolvida com **Node.js, TypeScript, Express e PostgreSQL**, conteinerizada com **Docker**, aplicando **TDD, Zod** para validação e boas práticas de código.
-* [**Em breve: Products API (MongoDB)**](https://github.com/Guimrl/products-api): Um microserviço em construção, explorando **MongoDB** como banco NoSQL, com foco em arquitetura de microsserviços e documentação **OpenAPI/Swagger**.
-* Explore meus [**Mini Projetos**](https://guimrl.github.io/mini-projetos).
+- [Portfólio](https://guimrl.github.io/) — showcase com projetos, estudos e experiências.
+- [Resume Generator](https://github.com/Guimrl/resume-generator-core) — projeto em TypeScript para gerar currículos em PDF a partir de um template HTML/CSS.
+- [Ponto.py](https://github.com/Guimrl/ponto.py) — script em Python para calcular horas trabalhadas e consultar registros de ponto com automação via Selenium.
+- [Mini Projetos](https://guimrl.github.io/mini-projetos) — estudos, experimentos e exemplos práticos de código.
 
 ---
-
-```javascript
-
-const work = () => {
-  let working = true;
-  while (working) {
-    coffee.drink();
-    job.execute();
-
-    if (coffee() === "empty") {
-      coffeepot() === "empty" ? coffeepot.brew() : coffee.refill();
-    }
-  }
-}
-
-```
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimrl&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=Hack"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimrl&theme=slateorange&hide_border=false"/>
 </div>
-<br>
 
-<p align="center">Minhas redes sociais</p>
-<br>
 <div align="center">
-  <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&&style=flat" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guimrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&&style=flat" target="_blank"></a>  
-
-  [![](https://visitcount.itsvg.in/api?id=guimrl&icon=2&color=12)](https://visitcount.itsvg.in)
-
+  <a href="https://www.linkedin.com/in/guimrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat"/></a>
+  <a href="https://instagram.com/guimrll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat"/></a>
+  <a href="https://guimrl.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-111827?logo=vercel&logoColor=white&style=flat"/></a>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=guimrl&icon=2&color=12)](https://visitcount.itsvg.in)
